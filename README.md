@@ -18,7 +18,7 @@ git clone https://github.com/leadforgeworks/skill-linkedin-social-selling ~/.cla
 
 **Windows (PowerShell)**
 ```powershell
-git clone https://github.com/leadforgeworks/skill-linkedin-social-selling "$HOME.claudeskills${dir}"
+git clone https://github.com/leadforgeworks/skill-linkedin-social-selling "$HOME.claudeskillslinkedin-social-selling"
 ```
 
 Redémarrez Claude Code : le skill se déclenche tout seul quand votre demande correspond. Pour le mettre à jour : `git pull` dans ce dossier.
